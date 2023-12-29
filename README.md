@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/Untitled-1.png" width=""/>   ---
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-decola-tech-2024/main/imagens/Sem%20t%C3%ADtulo-1.png" width=""/>   ---
 
 
 ## Detalhes do bootcamp
